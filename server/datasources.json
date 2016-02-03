@@ -1,10 +1,6 @@
 {
-  "db": {
-    "name": "db",
-    "connector": "mongodb"
-  },
-  "wrlDatasource": {
-    "name": "wrlDatasource",
+  "mongoDb": {
+    "name": "mongoDb",
     "connector": "mongodb"
   }
 }
