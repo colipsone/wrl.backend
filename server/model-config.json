@@ -31,5 +31,11 @@
   "Role": {
     "dataSource": "mongoDb",
     "public": false
+  },
+  "apartment": {
+    "dataSource": "mongoDb",
+    "public": true,
+    "$promise": {},
+    "$resolved": true
   }
 }
